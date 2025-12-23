@@ -1,0 +1,7 @@
+allowed_ports:
+  - 443
+
+required_headers:
+  - Content-Security-Policy
+  - X-Frame-Options
+  - Strict-Transport-Security
